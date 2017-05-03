@@ -1,0 +1,10 @@
+C:\Users\mattt\Desktop\Matt\BIT\Year3\OOSD\IN710tuckmn1\PatternSimulator\PatternSimulator\PatternSimulator\bin\Debug\PatternSimulator.exe.config
+C:\Users\mattt\Desktop\Matt\BIT\Year3\OOSD\IN710tuckmn1\tuckmn1PatternSimulator\PatternSimulator\PatternSimulator\bin\Debug\PatternSimulator.exe.config
+C:\Users\mattt\Desktop\Matt\BIT\Year3\OOSD\IN710tuckmn1\tuckmn1PatternSimulator\PatternSimulator\PatternSimulator\bin\Debug\PatternSimulator.exe
+C:\Users\mattt\Desktop\Matt\BIT\Year3\OOSD\IN710tuckmn1\tuckmn1PatternSimulator\PatternSimulator\PatternSimulator\bin\Debug\PatternSimulator.pdb
+C:\Users\mattt\Desktop\Matt\BIT\Year3\OOSD\IN710tuckmn1\tuckmn1PatternSimulator\PatternSimulator\PatternSimulator\obj\Debug\PatternSimulator.csprojResolveAssemblyReference.cache
+C:\Users\mattt\Desktop\Matt\BIT\Year3\OOSD\IN710tuckmn1\tuckmn1PatternSimulator\PatternSimulator\PatternSimulator\obj\Debug\PatternSimulator.Form1.resources
+C:\Users\mattt\Desktop\Matt\BIT\Year3\OOSD\IN710tuckmn1\tuckmn1PatternSimulator\PatternSimulator\PatternSimulator\obj\Debug\PatternSimulator.Properties.Resources.resources
+C:\Users\mattt\Desktop\Matt\BIT\Year3\OOSD\IN710tuckmn1\tuckmn1PatternSimulator\PatternSimulator\PatternSimulator\obj\Debug\PatternSimulator.csproj.GenerateResource.Cache
+C:\Users\mattt\Desktop\Matt\BIT\Year3\OOSD\IN710tuckmn1\tuckmn1PatternSimulator\PatternSimulator\PatternSimulator\obj\Debug\PatternSimulator.exe
+C:\Users\mattt\Desktop\Matt\BIT\Year3\OOSD\IN710tuckmn1\tuckmn1PatternSimulator\PatternSimulator\PatternSimulator\obj\Debug\PatternSimulator.pdb
